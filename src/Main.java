@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int client = 200;
-        int vnos = 90;
+        int vnos = 1100;
         int bonus = vnos / 100 + vnos + client;
         int bonusRub = vnos / 100;
         int bezBonusa = vnos + client;
